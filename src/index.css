@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a{
+  color: #61dabf;
+}
+
+a.active_class{
+  color: rgb(235, 209, 126);
+  border-bottom: 1px solid red;
+}
+.menu_style{
+  width: 100%;
+  line-height: 70px;
+  display: flex;
+  justify-content: space-around;
+  background-color:#20232a;
+
+}
